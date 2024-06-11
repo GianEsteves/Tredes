@@ -54,7 +54,7 @@ O projeto está organizado nos seguintes arquivos:
 
 ## Contribuidores
 
-- [Gian Esteves Oliveira](link do perfil do GitHub)
+- [Gian Esteves Oliveira](giann.esteves@gmail.com)
 - [Tamires Antunes Nunes](tamiresantunesnunes@gmail.com)
 
 ---
