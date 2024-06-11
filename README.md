@@ -54,8 +54,8 @@ O projeto está organizado nos seguintes arquivos:
 
 ## Contribuidores
 
-- [Gian Esteves Oliveira](giann.esteves@gmail.com)
-- [Tamires Antunes Nunes](tamiresantunesnunes@gmail.com)
+- giann.esteves@gmail.com
+- tamiresantunesnunes@gmail.com
 
 ---
 
